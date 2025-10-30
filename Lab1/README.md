@@ -26,4 +26,4 @@ sudo ./setup.sh
 ```
 
 - Now, Exploit ;)
-- Walkthrough: [Vu1nS0ck Walkthrough](##)
+- Walkthrough: [Vu1nS0ck Walkthrough](#)

@@ -11,12 +11,12 @@ sudo docker pull alpine:3.18
 
 **Build the container**
 ```bash
-sudo docker build -t init.sh .
+sudo docker build -t vu1ns0ck-image .
 ```
 
 **Run the Vulnerable Container**
 ```bash
-sudo docker run -it --rm --name lab1-Vu1nS0ck -v /var/run/docker.sock:/var/run/docker.sock --user root init.sh bash
+sudo docker run -it --rm --name lab1-Vu1nS0ck -v /var/run/docker.sock:/var/run/docker.sock --user root vu1ns0ck-image bash
 ```
 ### OR
 **Automate this process with setup file**

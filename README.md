@@ -1,7 +1,6 @@
 # Container Penetration testing labs
 
 **The curriculum includes diverse labs dedicated to multiple container-based vulnerabilities.**
-> [! NOTE]
 > These labs are custom-designed based on my professional experience.
 
 ## Clone Labs
